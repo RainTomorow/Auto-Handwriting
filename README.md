@@ -3,7 +3,7 @@ This program allows you to imitate your own handwriting with any possible text y
 
 _I do not endorse to use this code in order to cheat someone or any other harmful ways. Please use it only for fair reasons_
 
-[Try on Google Colab](https://colab.research.google.com/drive/10SM8ma6M6hdBGbvzROk7FYdZee1qgy7m?usp=sharing)
+[Try on Google Colab](https://colab.research.google.com/gist/RainTomorow/9d7a3beefd07b1b53836f9aebbc2e2b8/auto-handwriting.ipynb)
 
 To run the code you need three files
 
